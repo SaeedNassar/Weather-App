@@ -1,1 +1,1 @@
-A weather application using PyQt5 that provides real-time updates.
+A weather application using PyQt5 that scraps weather from a website to provide real-time updates.
